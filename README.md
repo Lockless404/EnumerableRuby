@@ -1,19 +1,22 @@
 # Enumerable
 
-> 
+>Created a custom Enumerable module with 3 methods: all?, any? and filter?.
 
-## Getting Started
-
--
-
+## Built with
+-Ruby
 
 ## Authors
 
-👤 **Author1**
+👤 **Hamza Tarar**
 
 - GitHub: [@Lockless404](https://github.com/Lockless404)
 - Twitter: [@hamza_tarar10](https://twitter.com/hamza_tarar10)
 - LinkedIn: [Hamza Tarar](https://www.linkedin.com/in/hamzaalitarar/)
+
+👤 **Mphatso Lichapa**
+- GitHub: [@Lichapa](https://github.com/Lichapa)
+- Twitter: [@LichapaMphatso](https://twitter.com/LichapaMphatso)
+- LinkedIn: [mphatsolichapa](https://www.linkedin.com/in/mphatsolichapa)
 
 ## 🤝 Contributing
 
